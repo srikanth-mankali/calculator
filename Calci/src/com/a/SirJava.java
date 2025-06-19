@@ -5,7 +5,7 @@ public class SirJava {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		String str1="Afroz";
+		String str1="Murty";
 		System.out.println("hi iam java sir "+str1);
 	
 	}
